@@ -3,7 +3,8 @@
 🔐 User Authentication: Secure user registration, login, password recovery, and role-based access control.
 📤 Video Upload & Streaming: High-performance video uploading, processing, and smooth media playback.
 💳 Subscriptions: Paid tier management and subscriber-exclusive content capabilities.
-👥 User Management: Profile customization, channel management, and viewer engagement tools.📊 Admin Dashboard: Comprehensive platform overview, analytics, content moderation, and user oversight.
+👥 User Management: Profile customization, channel management, and viewer engagement tools.
+📊 Admin Dashboard: Comprehensive platform overview, analytics, content moderation, and user oversight.
 🛠️ Tech Stack
 Frontend: HTML5, CSS3, JavaScript / Modern Framework 
 ⚙️ Installation & Setup
